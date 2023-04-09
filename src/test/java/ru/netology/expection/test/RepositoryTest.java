@@ -38,8 +38,8 @@ public class RepositoryTest {
         repo.add(product2);
         repo.add(product3);
 
-        // repo.remove(5);
-        // Product[] expected = {product1, product2, product2, };
+        // repo.removeById(5);
+        //  Product[] expected = {product1, product2, product2, };
         // Product[] actual = repo.findAll();
         // Assertions.assertArrayEquals(expected, actual);
         // Проверка на вывод ошибки "Element with id: 5 not found"
